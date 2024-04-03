@@ -31,9 +31,10 @@ To install, on:
 
     options:
       -h, --help            show this help message and exit
-      -l LANGUAGES [LANGUAGES ...], --languages LANGUAGES [LANGUAGES ...]
-                            Subtitle languages to extract (ISO 639-2 codes).
-
+      -l LANGUAGES [LANGUAGES ...]
+                            Subtitle languages to extract (ISO 639-2 codes). If only one language is extracted,
+                            then the output file will have the same name as the video file. Otherwise `_lang`
+                            will be appended to the name.
 
 ## Notes
 
