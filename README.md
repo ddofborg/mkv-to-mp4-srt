@@ -41,4 +41,4 @@ To install, on:
 
 - The video is not recompressed, just copied without quality loss.
 
-- I assume if there is not MP4 format in the MKV file, the video will still be extracted as `.mp4`. It's not tested.
+- (not tested) If there is no MP4 video in the MKV file, the video will still be extracted as `.mp4`, but will need a different player.
