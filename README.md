@@ -11,8 +11,14 @@ Binaries:
 
 - ffprobe
 
-To install, on OSX use `brew install ffmpeg` (if [Homebrew](https://brew.sh/) is installed). On Ubuntu use `sudo apt-get install ffmpeg`. On Fedora use `sudo dnf install ffmpeg`. On RHEL use `sudo yum install ffmpeg ffmpeg-devel`. On CentOS use `sudo dnf install ffmpeg ffmpeg-devel`. To install on Windows, see [gyan.dev](https://www.gyan.dev/ffmpeg/builds/).
+To install, on:
 
+- OSX use `brew install ffmpeg` (if [Homebrew](https://brew.sh/) is installed).
+- Ubuntu use `sudo apt-get install ffmpeg`. 
+- Fedora use `sudo dnf install ffmpeg`.
+- RHEL use `sudo yum install ffmpeg ffmpeg-devel`.
+- CentOS use `sudo dnf install ffmpeg ffmpeg-devel`.
+- Windows, see [gyan.dev](https://www.gyan.dev/ffmpeg/builds/).
 
 ## Usage
 
